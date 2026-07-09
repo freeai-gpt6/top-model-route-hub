@@ -2,7 +2,7 @@
 
 This repository is a model access navigation page for AI users, developers, and AIGC creators.
 
-Related entry: [https://pay.kklt.lol/](https://pay.kklt.lol/)
+Related entry: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 
 ## Positioning
 
@@ -14,7 +14,7 @@ GPT-5.6, Claude Opus 4.8, Gemini 3.5, DeepSeek V4, Qwen3.7, Grok 4.5
 
 ## Access Links
 
-- Related entry: [https://pay.kklt.lol/](https://pay.kklt.lol/)
+- Related entry: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - Free2AI: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - Relay service: [https://pay.kklt.lol/](https://pay.kklt.lol/)
 - Telegram: [https://t.me/kkscshop](https://t.me/kkscshop)
