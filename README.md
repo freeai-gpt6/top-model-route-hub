@@ -2,7 +2,7 @@
 
 这是一个面向 AI 用户、开发者、自动化脚本和 AIGC 创作者的模型接入导航仓库。
 
-关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 
 ## 项目定位
 
@@ -14,7 +14,7 @@ GPT-5.6, Claude Opus 4.8, Gemini 3.5, DeepSeek V4, Qwen3.7, Grok 4.5
 
 ## 推荐访问
 
-- 关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+- 关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 - Free2AI 导航：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - 推荐中转服务：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 - 电报客服：[https://t.me/kkscshop](https://t.me/kkscshop)
